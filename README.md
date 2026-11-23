@@ -1,5 +1,3 @@
-# Projeto Final — Prática de Programação
-
 ## E-commerce de produtos Apple
 
 **Disciplina:** Prática de Programação  
